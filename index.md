@@ -2,6 +2,10 @@
 
 Check out my great photo [here](https://github.com/ledworthy/ledworthy.github.io/blob/main/Screen%20Shot%202022-08-22%20at%203.53.52%20PM.png)!
 
+Or we can embed the photo right in:
+
+![](https://github.com/ledworthy/ledworthy.github.io/blob/main/Screen%20Shot%202022-08-22%20at%203.53.52%20PM.png)
+
 You can use the [editor on GitHub](https://github.com/ledworthy/ledworthy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
